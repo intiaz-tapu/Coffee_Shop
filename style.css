@@ -320,7 +320,7 @@ section{
     bottom: 0;
     width: 100%;
     padding: 40px 0;
-    background-color: var(--main-color);
+    background-color: #8b2f2f;
 }
 .footer .social{
     text-align: center;
@@ -446,4 +446,5 @@ section{
     .reviews-container{
         grid-template-columns: repeat(1, 1fr);
     }
+
 }
