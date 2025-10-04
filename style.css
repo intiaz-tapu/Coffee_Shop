@@ -12,7 +12,7 @@
 :root{
     --bg-color: black;
     --text-color: white;
-    --main-color: #bb1f1f;
+    --main-color: #992e2e;
 
 }
 html{
@@ -448,3 +448,4 @@ section{
     }
 
 }
+
